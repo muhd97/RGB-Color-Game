@@ -26,3 +26,6 @@ Double-click the "play.html" file after unzipping the downloaded zip file.
 * [HTML] (https://www.html.com/) - Standard markup language
 * [CSS] (https://css.com) - Style sheet language
 
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/muhd97/RGB-Color-Game/blob/master/LICENSE) file for details
